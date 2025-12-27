@@ -26,7 +26,7 @@ class Epic_Chess(arcade.Window):
         self.frame_count = 0
 
         arcade.set_background_color(arcade.color.LIGHT_GRAY)
-
+ff
     def on_draw(self):
         self.clear()
 
@@ -209,4 +209,5 @@ def main():
     arcade.run()
 
 if __name__ == "__main__":
+
     main()
