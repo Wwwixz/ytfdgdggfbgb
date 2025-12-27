@@ -1,6 +1,7 @@
 import arcade
 import random
 
+ok
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 SCREEN_TITLE = "Epic Chess"
@@ -209,4 +210,5 @@ def main():
     arcade.run()
 
 if __name__ == "__main__":
+
     main()
